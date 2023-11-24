@@ -1,4 +1,6 @@
-# ### string ###
+# VSC'da bu dosyayı açtıysanız, çalıştırmak istediğiniz kod bloğunu mouse ile seçip
+# Ctrl+Ö ile # komentini kaldırabilir veya kod bloğunu kapatmak için yine aynı yöntemi kullanabilirsiniz.
+
 # print() # "string" kısaltılmışı"str"dir, tırnak içindeki tüm verilerdir.
 # print("Bu ilk dersde öğrendiklerim VSC kullanma ve")
 # print("terminalden python oluşturma oldu.")
