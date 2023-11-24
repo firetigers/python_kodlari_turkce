@@ -2,7 +2,8 @@
 # "Ctrl+Ö" ile "#" komentini kaldırabilir veya kod bloğunu kapatmak için yine aynı yöntemi kullanabilirsiniz.
 # Yaptiğınız değişikliği çalıştırmadan önce "Ctrl+S" ile kaydetmeyi unutmayın.
 
-# print() # "string" kısaltılmışı"str"dir, tırnak içindeki tüm verilerdir.
+# >>> String <<<
+# "string" kısaltılmışı"str"dir, tırnak içindeki tüm verilerdir.
 # print("Bu ilk dersde öğrendiklerim VSC kullanma ve")
 # print("terminalden python oluşturma oldu.")
 # print("""Noktaların kullanımı konusu işlendi.""") # 3 üst tırnak ("""") veya virgül (''') olursa,
