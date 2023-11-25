@@ -14,13 +14,12 @@
 # çünkü tırnak içindeki tüm veriler "string" olarak kabul ediliyor.
 
 # >>> variable and value, değişken ve değer <<<
-# print() # "variable", türkçe karşılığı değişken demektir.
+# "variable", türkçe karşılığı değişken demektir.
 # my_age = 47 # ilk yazdığımız variable=değişken, ona verdiğimiz ise value=değerdir.
 # your_age = 45
 # my_age = your_age # benim yaşım, senin yaşına eşit dediğimiz için
 # print(my_age) # my_age yaşı 45 olarak sonuç çıkar.
 
-# print()
 # ocak = mart = mayıs = temuuz = eylül = kasım = 31
 # şubat = 28
 # nisan = haziran = ağustos = ekim = aralık = 30
@@ -28,7 +27,7 @@
 # print(şubat)
 # print(nisan, haziran, ağustos, ekim, aralık)
 
-# # aritmetik işlemler
+# >>> aritmetik işlemler <<<
 # print() # "sayısal işlemler" 
 # print(4 + 2) # toplama işlemi
 # print(4 / 2) # float division, bölme işleminde "float" olur, yani sonucu 2.0 verir
