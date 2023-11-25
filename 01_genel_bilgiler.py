@@ -13,7 +13,7 @@
 # print("3.3") # bu şekilde yapınca matematiksel işlem olmuyor, 
 # çünkü tırnak içindeki tüm veriler "string" olarak kabul ediliyor.
 
-# ### variable and value, değişken ve değer ###
+# >>> variable and value, değişken ve değer <<<
 # print() # "variable", türkçe karşılığı değişken demektir.
 # my_age = 47 # ilk yazdığımız variable=değişken, ona verdiğimiz ise value=değerdir.
 # your_age = 45
