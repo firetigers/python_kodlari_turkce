@@ -38,7 +38,7 @@
 # print(10 % 3) # modulus, bölme işleminde artık sayıyı verir, yani burada
 # # 10, 3'e bölündüğünde artık sayı 1 olduğundan, bu değeri verecektir.
 
-# # aritmetik işlemlerde = işaretinin kullanımı
+# >>> aritmetik işlemlerde = işaretinin kullanımı <<<
 # -=, sayı = 3 diyelim, x -= 3, demek x = x - 3 demektir.
 # +=, x += 3, demek x = x + 3 demektir.
 # *=, x *= 3, demek x = x * 3 demektir.
