@@ -47,12 +47,12 @@
 # %=, x %= 3, demek x = x % 3 demektir.
 # **=, x **= 3, demek x = x ** 3 demektir.
 
-# # aritmetik işlemlerde işlem sırası
+# >>> aritmetik işlemlerde işlem sırası <<<
 # () parantez
 # ** üslü sayılar
 # -3 negatif sayılar
-# *, / çarpma ve bölme
-# +, - toplama ve çıkarma
+# * , / çarpma ve bölme
+# + , - toplama ve çıkarma
 # a = (1 + 3) ** (2 ** (1 * 2 / 2) / 2) # işlem sırasına göre en içteki parantez yapılarak devam edilir. / işareti olduğu için sonuç float çıkacaktır.
 # print(a) 
 
