@@ -71,7 +71,7 @@
 # print('it\'s essential to learn Python\'s libraries in IT World') # normalde cümle içinde tek tırnak olduğundan hata vermesi lazım ama \ işareti 
 # kendinden sonraki karakterin gücünü elinden aldığı için hata vermiyor.
 
-# \n kılavyede yer alan tab işlevini yapar, yani 4 karakter boşluk bırakır.
+# \t kılavyede yer alan tab işlevini yapar, yani 4 karakter boşluk bırakır.
 # print('first', 'second', 'third', sep='\t') # sep= seperate-ayırmak anlamına gelir.
 
 # print('first', 'second', 'third', sep='\n') # stringleri alt alta yazdırır.
