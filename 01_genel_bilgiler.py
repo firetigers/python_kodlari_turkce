@@ -56,7 +56,7 @@
 # a = (1 + 3) ** (2 ** (1 * 2 / 2) / 2) # işlem sırasına göre en içteki parantez yapılarak devam edilir. / işareti olduğu için sonuç float çıkacaktır.
 # print(a) 
 
-# >>> escape sequences, \n, \t, \b (string içinde kullanılırlar) <<<
+# >>> escape sequences, \n, \t, \b (Kaçış dizileri, string içinde kullanılırlar) <<<
 # \ işareti kendinden sonra gelen karekterin özel bir anlamı veya gücü varsa, onları elinden alır, yani etkisiz hale getirir.
 # \n bir alt satıra geçirir.
 # \t tab dediğimiz dört boşluk koyar.
