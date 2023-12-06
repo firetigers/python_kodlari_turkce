@@ -79,7 +79,7 @@
 # print('first', 'second', 'third', sep=' ') # stringleri boşluk bırakarak yazdırır.
 # print('first', 'second', 'third') # bu şekilde olduğu gibi yazdırır.
 
-# # boolean operations (True and False)
+# >>> boolean operations (True and False) <<<
 # boolean işlemlerde (and, or, not) işlemleri vardır.
 # and ilk gördüğü False döndürür. şayet False yoksa gördüğü son True değerini döndürür.
 # or ilk gördüğü True değerini döndürür. şayer True yok ise False değerini döndürür.
