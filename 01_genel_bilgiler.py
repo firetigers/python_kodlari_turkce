@@ -100,7 +100,7 @@
 # print(True or False) # 4. adım True or False
 # print(True) # 5. adım
 
-# None False değere sahiptir.
+# None, False değere sahiptir.
 # Zero: 0, 0.0, 0j False değere sahiptir.
 # "", [], {} False değere sahiptir.
 # geri kalan herşey True değere sahiptir.
