@@ -60,7 +60,7 @@
 # \ işareti kendinden sonra gelen karekterin özel bir anlamı veya gücü varsa, onları elinden alır, yani etkisiz hale getirir.
 # \n bir alt satıra geçirir.
 # \t tab dediğimiz dört boşluk koyar.
-# \b boşluğu siliyor,yani kelimeyi bir tık sola alıyor.
+# \b boşluğu siliyor, yani kelimeyi bir tık sola alıyor.
 # bunlar string içerisinde anlamlıdır, string içerisinde değillerse güçleri yoktur.
 
 # \b aradaki boşluğu kaldırarak yazdırır.
