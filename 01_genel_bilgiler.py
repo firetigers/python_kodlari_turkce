@@ -125,7 +125,7 @@
 # False or True...      İlk True
 # True or False...     İlk True
 
-# >>> Indexing and Slicing Strings-Dizinleme ve dilimleme dizeleri
+# >>> Indexing and Slicing Strings-Dizinleme ve dilimleme dizeleri <<<
 # [start:stop:step] 
 # bu işlem iteyribıl yani elemanlarına ayrılabilen stringlerde yapışabilir, rakamlar ve sayılar iteyrıbıl olmadığı için bu işlemler onlarda yapılamaz.
 
