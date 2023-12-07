@@ -119,7 +119,7 @@
 # False and False...   İlk False
 # False and True...     İlk False
 
-# Or, True duyarlidr onu arar ilk buldgunu döndürür.
+# Or, True duyarlıdır onu arar ilk buldgunu döndürür.
 # False or False...   Son False
 # True or True...       İlk. True
 # False or True...      İlk True
