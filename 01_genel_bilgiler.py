@@ -113,7 +113,7 @@
 # print(None and ()) # False and False olur ve and ilk False yakaladığı için None yazdırır.
 # print([0] and 1) # True and True olur ve and False değer olmadığında, son True yakaladığından 1 yazdırır.
 
-# And, False duyarlidir onu arar bulduğu an döndürur.
+# And, False duyarlıdır onu arar bulduğu an döndürur.
 # True and True..      son True
 # True and False..      ilk False
 # False and False...   İlk False
