@@ -162,7 +162,7 @@
 # a += d
 # print(a)
 
-# = işareti * ile kullanılırsa (bu konuyu tam anlamadım)
+# = işareti * ile kullanılırsa çarpma işlemi yapıp, bu işlemin sonucunu aynı değişkene atar.
 
 # # string.format(), f-string - stringleri formatlama
 # string.format en başta böyle yapılırken
