@@ -153,7 +153,8 @@
 # * işareti string önüne yazılırsa o değeri karakterlerine ayırarak yazdırır.
 # print(* "Alper")
 
-# = işareti + ile kullanılırsa(bu konuyu tam anlamadım)
+# = işareti + ile kullanılırsa, a değişkeninin taşıdığı değere b değişkenini ilave ediyoruz
+# ve daha sonra bu değeri tekrar a değişkenine atıyoruz.
 # a = "Alp"
 # b = "er"
 # a += b
