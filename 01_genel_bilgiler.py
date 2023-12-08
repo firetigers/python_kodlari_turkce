@@ -171,7 +171,7 @@
 # print("Ben {} ve {} aldım. Kilosu {} liraydı.".format (meyve, sebze, fiyat))
 
 # bunun daha kullanışlısı olan f formatı kullanılmaktadır ve daha pratikdir. 
-# bunun temel nedeni f srtinglerde süslü parantezler içinde oynamalar yapıla bilmesidir.
+# bunun temel nedeni f srtinglerde süslü parantezler içinde oynamalar yapılabilmesidir.
 # meyve = "elma"
 # sebze = "ıspanak"
 # fiyat = 5
