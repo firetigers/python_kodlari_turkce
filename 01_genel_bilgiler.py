@@ -141,7 +141,7 @@
 # best = "Clarusway"
 # print(len(best)) # sonuç 9 çıkar çünkü 9 karakter vardır.
 
-# >>> String Formatlama (+, =, *)
+# >>> String Formatlama (+, =, *) <<<
 # + işareti stringleri birleştirir. 
 # print("Alp" + "er")
 
