@@ -136,7 +136,8 @@
 # burada [start:stop:step] kuralını unutmayalım. bu işlem şu şekilde de yazılabilirdi.
 # print("Clarusway"[::2]) # sonuç yine Cauwy olacaktır.
 
-# >>> len fonksiyonu iteyrıbıl yani string gibi sayılabilen verilerde, karakter sayısını bulmak için kullanılır.
+# >>> len fonksiyonu <<<
+# İteyrıbıl yani string gibi sayılabilen verilerde, karakter sayısını bulmak için kullanılır.
 # best = "Clarusway"
 # print(len(best)) # sonuç 9 çıkar çünkü 9 karakter vardır.
 
