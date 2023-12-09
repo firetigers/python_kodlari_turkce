@@ -201,7 +201,7 @@
 # gender = "lady"
 # school = "CLRWY IT university." # ev ödevi, bunlardan "Susan is a young lady and she is a student at the CLRWY IT university." şeklinde bir cümle oluşturun.
 
-# >>> searching a string (Bir dizeyi aramak)
+# >>> searching a string (Bir dizeyi aramak) <<<
 # string.startswith, string.endswith # stringlerde True yada False döndürür.
 # text  = "www.clarusway.com"
 # print(text.startswith("www"))
