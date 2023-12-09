@@ -250,7 +250,7 @@
 # print(text.strip("tz").upper())
 # print(text.upper().strip("TZ"))
 
-# # Collection Types - Koleksiyon Türleri - List, Tuple, Dictionary, Set
+# >>> Collection Types - Koleksiyon Türleri - List, Tuple, Dictionary, Set
 # Coolection Types lar birbirinden farklı olan verileri içerisinde barındırabilir. bunlar iteyribildır yani elemanlarına ayrılabilirler.
 
 # list() veya []
