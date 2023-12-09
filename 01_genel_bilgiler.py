@@ -231,7 +231,8 @@
 # print(sentence.capitalize())
 # print(sentence)
 
-# stringler invariability yani değişmezlik özelliğine sahiptir. bu nedenle stringde yaptığımız bir değişikliği yeni bir değişkene yani veriable atmazsak, string ilk haliyle sonuç verir. 
+# stringler invariability yani değişmezlik özelliğine sahiptir. bu nedenle stringde yaptığımız bir değişikliği
+# yeni bir değişkene yani veriable atmazsak, string ilk haliyle sonuç verir. 
 # aşağıdaki örnekte olduğu gibi.
 # cumle = "Pc her zaman console ounlarini dover."
 # print(cumle.upper())
