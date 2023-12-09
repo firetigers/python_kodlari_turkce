@@ -240,8 +240,10 @@
 # cumle = cumle.upper()
 # print(cumle)
 
-# string.strip(), string.rstrip(), string.lstrip # strip stringin başındaki ve sonundaki boşlukları siler, rstrip sağındaki, lstrip solundaki boşlukları alır.
-# ayrıca rstrip sağındaki ve lstrip solundaki, içine yazılan harf yada heceleri ayrı ayrı ve birlikte arayarak silecektir. strip ise her iki taraftan düzeltme yapacaktır.
+# string.strip(), string.rstrip(), string.lstrip # strip stringin başındaki ve sonundaki boşlukları siler,
+# rstrip sağındaki, lstrip solundaki boşlukları alır.
+# ayrıca rstrip sağındaki ve lstrip solundaki, içine yazılan harf yada heceleri ayrı ayrı ve birlikte arayarak
+# silecektir. strip ise her iki taraftan düzeltme yapacaktır.
 
 # text = "tyou can learn almost everyting in pre-classz" # YOU CAN LEARN EVERYTING IN PRE-CLASS yazdırın.
 # print(text.lstrip("t").rstrip("z").upper())
