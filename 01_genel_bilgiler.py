@@ -282,7 +282,7 @@
 
 # string değerini [] içinde yazarsak, tek bir eleman olarak alacaktır.
 # Aynı string'i list() fonksiyonu ile yazarsak da herbir objeyi, 
-# boşluklarda dahil, bir indeks olarak alır. bu durum len() fonksiyonu ile görülebilir.
+# boşluklarda dahil, bir indeks olarak alır. Bu durum len() fonksiyonu ile görülebilir.
 # my_list1 = ["2022's hard."]
 # my_list2 = list("2022's hard.")
 # print(my_list1)
