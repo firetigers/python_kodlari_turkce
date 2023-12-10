@@ -280,7 +280,8 @@
 # print(len(new_list2)) # new_list2'deki sıfırıncı indeks listenin kendisi olacaktır.
 # print(len(new_list3)) # new_list3'deki sıfırıncı indeks lsitenin kendisi, 1. indeks 36 olacaktır.
 
-# string değerini [] içinde yazarsak, tek bir eleman olarak alacaktır. aynı string'i list() fonksiyonu ile yazarsak da herbir objeyi, 
+# string değerini [] içinde yazarsak, tek bir eleman olarak alacaktır.
+# Aynı string'i list() fonksiyonu ile yazarsak da herbir objeyi, 
 # boşluklarda dahil, bir indeks olarak alır. bu durum len() fonksiyonu ile görülebilir.
 # my_list1 = ["2022's hard."]
 # my_list2 = list("2022's hard.")
