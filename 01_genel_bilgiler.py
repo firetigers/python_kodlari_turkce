@@ -290,7 +290,7 @@
 # print(len(my_list1))
 # print(len(my_list2))
 
-# # Basic Operations with lists - Listelerle Temel İşlemler
+# > Basic Operations with lists - Listelerle Temel İşlemler
 # list_1 = []
 # list_2 = list()
 # .append()
