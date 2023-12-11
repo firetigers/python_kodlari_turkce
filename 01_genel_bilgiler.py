@@ -327,7 +327,7 @@
 # list4.insert(3, 5)
 # print(list4)
 
-# .remove() # list içinden bir eleman silmek için kullanılır. silinecek değer () içine yazılır.
+# .remove() # list içinden bir eleman silmek için kullanılır. Silinecek değer () içine yazılır.
 
 # list5 = [1, 4, 7, 9]
 # list5.remove(4)
