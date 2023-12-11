@@ -314,7 +314,7 @@
 # city.append("Addis Ababa")
 # print(city)
 
-# .insert() # listelerin içine değer eklemek için kullanılır, append'den farklı olarak iki değer girilit. ilki değerin atanmak istendiği indeks sırası, 
+# .insert() # listelerin içine değer eklemek için kullanılır, append'den farklı olarak iki değer girilir. ilki değerin atanmak istendiği indeks sırası, 
 # ikincisi ise atanacak değerin kendisi yazılır.
 
 # list4 = [1, 4, 7, 9]
