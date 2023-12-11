@@ -301,7 +301,7 @@
 
 # .append() # listelerin sonuna eleman eklemek için kullanılır, eklenen elemanı hep son sıraya atar. 
 # Append fonksiyonu içine tek değer yazılmalıdır, aksi takdirde hata verecektir. 
-# bu özellik striglerle yani str.append() şeklinde asla kullanılmaz.
+# Bu özellik striglerle yani str.append() şeklinde asla kullanılmaz.
 # empty_list =[]
 # empty_list.append(1) 
 # empty_list.append("Multiverse")
