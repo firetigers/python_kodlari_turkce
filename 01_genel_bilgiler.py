@@ -346,7 +346,7 @@
 # .sort() # list içindeki değerleri numaratik sıraya göre düzenler. 
 # Sort aynı veri tiplerinde çalışır, yani rakam ve harf olan bir liste de çalışmaz.
 # harfleri ise aski kod değerine göre düzenler.
-# python'da her bir küçük veya büyük harfin aski kod değeri vardır ve bu print.(ord("A")) ve print(ord( a)) ile öğrenilebilir.
+# Python'da her bir küçük veya büyük harfin aski kod değeri vardır ve bu print.(ord("A")) ve print(ord( a)) ile öğrenilebilir.
 
 # print(ord("A"))
 # print(ord("a"))
