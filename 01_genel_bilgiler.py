@@ -343,7 +343,8 @@
 # list7.pop(0)
 # print(list7)
 
-# .sort() # list içindeki değerleri numaratik sıraya göre düzenler. sort aynı veri tiplerinde çalışır, yani rakam ve harf olan bir liste de çalışmaz.
+# .sort() # list içindeki değerleri numaratik sıraya göre düzenler. 
+sort aynı veri tiplerinde çalışır, yani rakam ve harf olan bir liste de çalışmaz.
 # harfleri ise aski kod değerine göre düzenler.
 # python'da her bir küçük veya büyük harfin aski kod değeri vardır ve bu print.(ord("A")) ve print(ord( a)) ile öğrenilebilir.
 
