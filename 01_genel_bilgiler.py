@@ -380,7 +380,7 @@
 # city_list = [["New York", "Londan", "Berlin", "Seul", "Sydney"]] # srtingler de ise iç içe giderek, istediğimiz harfe kadar gidebiliriz.
 # print(city_list[0][2][4]) # 0 listenin kendisini, 2 liste içindeki değeri, 4 değer içindeki harfi getirir.
 
-# > Slicing a list - Bir listeyi dilimleme (start:stop:step)
+# >> Slicing a list - Bir listeyi dilimleme (start:stop:step)
 
 # animals = ['elephant', 'bear', 'fox', 'wolf', 'rabbit', 'deer', 'giraffe']
 # print(animals[:])
