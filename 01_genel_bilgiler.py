@@ -373,7 +373,7 @@
 # print(len(list_5))
 
 # list_5 = [[1, 3], [44, -40], [-12, 1]] # Bu list de 3 indeks bulunmaktadır. (0, 1, 2)
-# print(list_5[0][0]) # ilk önce ulaşmak istediğimiz indeksi sonra onun içindeki indeksi yazarak istediğimiz değere ulaşabiliriz.
+# print(list_5[0][0]) # İlk önce ulaşmak istediğimiz indeksi sonra onun içindeki indeksi yazarak istediğimiz değere ulaşabiliriz.
 # print(list_5[1][0])
 # print(list_5[2][0])
 
