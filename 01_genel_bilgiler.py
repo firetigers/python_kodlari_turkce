@@ -394,7 +394,8 @@
 # animals = ['elephant', 'bear', 'fox', 'wolf', 'rabbit', 'deer', 'giraffe']
 # print(animals[::2])
 
-# >>> Tuples # tuples invitibildır yani içindeki verileri değiştiremezsiniz. list ile arasındaki en büyük fark budur.
+# >>> Tuples <
+# tuples invitibildır yani içindeki verileri değiştiremezsiniz. list ile arasındaki en büyük fark budur.
 # değişmesini istemediğimiz değerlerde kullanılır. banka hesap numarası, kimlik numarası gibi.
 # Tuple'da tıpkı list gibi birbirinden farklı değerleri içerisinde barındırabilir. str, int, float, list, tuple birarada olabilir.
 
