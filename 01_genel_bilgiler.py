@@ -397,7 +397,8 @@
 # >>> Tuples <<<
 # Tuples invitibildır yani içindeki verileri değiştiremezsiniz, list ile arasındaki en büyük fark budur.
 # Değişmesini istemediğimiz değerlerde kullanılır. Banka hesap numarası, kimlik numarası gibi.
-# Tuple'da tıpkı list gibi birbirinden farklı değerleri içerisinde barındırabilir. str, int, float, list, tuple birarada olabilir.
+# Tuple'da tıpkı list gibi birbirinden farklı değerleri içerisinde barındırabilir.
+# str, int, float, list, tuple birarada olabilir.
 
 # ()
 # tuple()
