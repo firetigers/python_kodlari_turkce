@@ -417,7 +417,7 @@
 # print(my_list, type(my_list), sep="\n") # burada türü(type), [] içinde olduğundan list'dir.
 
 # print(my_tuple[3]) # Tuple içindeki değerlere indeks sayısını yazarak ulaşabiliriz.
-# print(my_tuple[3:5]) # ayrıca (start:stop:step) kuralıyla, birden fazla indeks yazarak da değerlere ulaşabiliriz.
+# print(my_tuple[3:5]) # Ayrıca (start:stop:step) kuralıyla, birden fazla indeks yazarak da değerlere ulaşabiliriz.
 
 # sehirler = ["Istanbul", "Izmir", "Ankara", "Van", "Erzurum", "Sivas", "Gonya", "Ssinop", "Mugla", "Gaziantep"]
 # print(sehirler)
