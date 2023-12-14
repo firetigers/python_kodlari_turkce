@@ -406,7 +406,7 @@
 # my_tuple1 = ("wakayabashi",) # Burada parantezden önce virgül koyduğumuz için türünü(type) tuple olarak verecektir.
 # my_tuple2 = "wakabayashi"
 # my_tuple2 = tuple("wakayabashi")
-# print(my_tuple, type(my_tuple)) # değeri str gördüğü için sadece kelimeyi yazdırır.
+# print(my_tuple, type(my_tuple)) # Değeri str gördüğü için sadece kelimeyi yazdırır.
 # print(my_tuple1, type(my_tuple1)) # değeri tuple gördüğü için parantezle birlikte içindekileri yazdırır.
 # print(my_tuple1, type(my_tuple1), sep="\n") # \n new line yani yeni çizgi manasında olduğundan, bilgileri ayrı satırlarda yazdırarak çıktı verir.
 # print(my_tuple2)
