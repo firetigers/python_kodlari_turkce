@@ -402,7 +402,7 @@
 
 # ()
 # tuple()
-# my_tuple = ("wakabayashi") # tek elemanlı bir değer tuple olmaz, onu tuple yapmak için mutlaka parantezden önce , koymalıyız. virgül koymadığımız zaman türünü string olarak verecektir.
+# my_tuple = ("wakabayashi") # Tek elemanlı bir değer tuple olmaz, onu tuple yapmak için mutlaka parantezden önce , koymalıyız. virgül koymadığımız zaman türünü string olarak verecektir.
 # my_tuple1 = ("wakayabashi",) # burada parantezden önce virgül koyduğumuz için türünü(type) tuple olarak verecektir.
 # my_tuple2 = "wakabayashi"
 # my_tuple2 = tuple("wakayabashi")
