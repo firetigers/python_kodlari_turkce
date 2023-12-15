@@ -428,7 +428,8 @@
 # sehirler_tuple[0] = "Mus"  # Bu çalışmaz.
 
 # >>> Dictionaries - Sözlükler <<<
-# {} içinde yazarken key değişkeni 'str' olarak yazılır ve sonrasında : kullanılır; grocer1 = {'fruit' : 'apple', 'drink' : 'water'} şeklinde yazılırken
+# {} içinde yazarken key değişkeni 'str' olarak yazılır ve sonrasında : kullanılır;
+# grocer1 = {'fruit' : 'apple', 'drink' : 'water'} şeklinde yazılırken
 # dict() içinde yazarken key değişkeni tırnaksız ve sonrasında = kullanılır; groser2 = dict(fruit='apple', drink='water') şeklinde yazılır. bu ayrıma dikkat edilmelidir.
 # bir anahtar(key) bir değer(value) çiftinden oluşur ve bu iki çift bir eleman olarak kabul edilir, {} içinde yazılır ve değerler virgül(,) ile ayrılır.
 # sözlükte yer alan bir kelime ve onun açıklaması şeklinde düşünülebilir. bu nedenle sözlük manasına gelen dictionari denmiştir.
