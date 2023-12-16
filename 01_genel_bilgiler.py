@@ -444,8 +444,8 @@
 # first_dict = {"kola" : 25, "ekmek" : 5, "makarna" : 5} # {} süslü parantez içerisinde yazım şekli.
 # second_dict = dict(kola=25, ekmek=5, makarna=5) # dict() şeklinde yazım şekli.
 
-# state_capitals = {  "Arkansas" : "Little Rock", # 0. indeks
-#                     "Colorado" : "Denver",      # 1. indeks
+# state_capitals = {  "Arkansas" : "Little Rock",  # 0. indeks
+#                     "Colorado" : "Denver",       # 1. indeks
 #                     "California" : "Sacramento", # 2. indeks
 #                     "Georgia" : "Atlanta"        # 3. indeks
 # }
