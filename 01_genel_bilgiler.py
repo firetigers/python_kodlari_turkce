@@ -434,7 +434,7 @@
 # groser2 = dict(fruit='apple', drink='water') şeklinde yazılır. Bu ayrıma dikkat edilmelidir.
 # bir anahtar (key) bir değer (value) çiftinden oluşur ve bu iki çift bir eleman olarak kabul edilir,
 # {} içinde yazılır ve değerler virgül (,) ile ayrılır.
-# sözlükte yer alan bir kelime ve onun açıklaması şeklinde düşünülebilir. bu nedenle sözlük manasına gelen dictionari denmiştir.
+# Sözlükte yer alan bir kelime ve onun açıklaması şeklinde düşünülebilir. bu nedenle sözlük manasına gelen dictionari denmiştir.
 # Tuple ve list'de olduğu gibi birbirinden farklı değerleri içerisinde barındırabilir. str, int, float, list, tuple birarada olabilir.
 # {key1 : value1,
 # key2 : value2}
