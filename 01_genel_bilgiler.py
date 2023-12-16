@@ -463,7 +463,8 @@
 # .keys() # dict içindeki bütün key değişkenlerini verir.
 # .values() # dict içindeki bütün value değerlerini verir.
 # .update({}) # dict içine yeni bir key=value eklememizi sağlar ve yeni değeri en sona atar. ({....}) içine yazılmalıdır.
-# del # dict içinden bir key silmek için kullanılır. diğerlerinden farklı olarak öne yazılır ve sonra dict eklenir. [...] içine silinmek istenen key yazılır, value asla yazılmaz.
+# del # dict içinden bir key silmek için kullanılır. Diğerlerinden farklı olarak öne yazılır ve sonra dict eklenir.
+# [...] içine silinmek istenen key yazılır, value asla yazılmaz.
 
 # mix_values = {"animal" : ("dog", "cat"),  # tuple
 #                  "planet" : ["Neptun", "Pluton", "Jupyter"],  # liste
