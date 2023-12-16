@@ -436,7 +436,8 @@
 # {} içinde yazılır ve değerler virgül (,) ile ayrılır.
 # Sözlükte yer alan bir kelime ve onun açıklaması şeklinde düşünülebilir.
 # Bu nedenle sözlük manasına gelen dictionari denmiştir.
-# Tuple ve list'de olduğu gibi birbirinden farklı değerleri içerisinde barındırabilir. str, int, float, list, tuple birarada olabilir.
+# Tuple ve list'de olduğu gibi birbirinden farklı değerleri içerisinde barındırabilir.
+# str, int, float, list, tuple birarada olabilir.
 # {key1 : value1,
 # key2 : value2}
 
