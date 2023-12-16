@@ -450,7 +450,8 @@
 #                     "Georgia" : "Atlanta"        # 3. indeks
 # }
 
-# print(state_capitals["Arkansas"]) # dick içinden bilgi çekmek için [] içine key'i olduğu gibi yazmamız gerekir, value(değer) veya list'lerde olduğu gibi rakam yazarsak hata verir. 
+# print(state_capitals["Arkansas"]) # dick içinden bilgi çekmek için [] içine key'i olduğu gibi yazmamız gerekir,
+# value(değer) veya list'lerde olduğu gibi rakam yazarsak hata verir. 
 
 # dict içine atama yani ekleme yapmak için
 # state_capitals["Virgina"] = "richmond" # key ["..."] içinde = value "..." yazılmalıdır.
