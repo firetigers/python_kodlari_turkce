@@ -496,7 +496,7 @@
 # del mix_values["is_bad"] # diğerlerinden farklı olarak, noktasız bir şekilde, en öne yazılır ve sonra dict eklenir. silinmek istenen key [...] içine yazılmalıdır.
 # print(mix_values)
 
-# >>> Nested Dictionari - iç içe sözlük
+# >>> Nested Dictionari - iç içe sözlük <
 # dict'lerin içi içe geçmiş halidir.
 
 # school_records={
