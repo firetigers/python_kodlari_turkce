@@ -539,7 +539,7 @@
 # .add() # set içine eleman ekler.
 # .remove() # set içerisinden eleman siler.
 
-# set içine alınan her değer uniq'dir yani içindeki aynı değerleri tekrar etmez. bu nedenle True değere sahiptir. 
+# set içine alınan her değer uniq'dir yani içindeki aynı değerleri tekrar etmez. Bu nedenle True değere sahiptir. 
 # set unordered yani içeriğini her yazdırdığında farklı şekillerde yazdırır, belli bir düzene göre yazdırmaz, her seferinde değiştirecektir.
 # kümelerde yer alan birleşim, kesişim, fark kümesi şeklinde çalışır.
 
