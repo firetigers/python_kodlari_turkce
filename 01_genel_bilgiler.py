@@ -533,7 +533,7 @@
 # print(family["kadin"]["anne"]["meslek"])
 
 
-# # Creating a set -
+# > Creating a set -
 # {} # set = {} şeklinde boş set üretilemez, çünkü bu sadece dictionari de dict = {} şeklinde kullanılmaktadır.
 # set()
 # .add() # set içine eleman ekler.
