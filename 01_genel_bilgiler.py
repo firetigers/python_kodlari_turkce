@@ -573,7 +573,7 @@
 # print(a.intersection(b))  # == print(a & b)
 # print(b.intersection(a))  # == print(b & a)
 
-# >> Control Flow Statements
+# >>> Control Flow Statements
 ## Conditionals # iki veya daha fazla durum belirtilen yerlerde, şartları sağlıyorsa çalışsın, sağlamıyorsa hiç birşey yapmasın.
 
 
