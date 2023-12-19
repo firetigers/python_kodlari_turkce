@@ -574,7 +574,7 @@
 # print(b.intersection(a))  # == print(b & a)
 
 # >>> Control Flow Statements - Kontrol Akışı İfadeleri <<<
-## Conditionals
+## Conditionals - Şartlar veya Koşullar
 # iki veya daha fazla durum belirtilen yerlerde, şartları sağlıyorsa çalışsın, sağlamıyorsa hiç birşey yapmasın.
 
 
