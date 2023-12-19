@@ -574,7 +574,8 @@
 # print(b.intersection(a))  # == print(b & a)
 
 # >>> Control Flow Statements <<<
-## Conditionals # iki veya daha fazla durum belirtilen yerlerde, şartları sağlıyorsa çalışsın, sağlamıyorsa hiç birşey yapmasın.
+## Conditionals
+# iki veya daha fazla durum belirtilen yerlerde, şartları sağlıyorsa çalışsın, sağlamıyorsa hiç birşey yapmasın.
 
 
 ## if
