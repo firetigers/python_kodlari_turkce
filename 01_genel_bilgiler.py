@@ -582,7 +582,7 @@
 # if'den sonra gelecek olan koşul True olmalı ki, çalışaması istenen kod çalışsın. 
 # if'in kullanıldığı yerlerde boolen değerleri vardır. Boolen okumalarında öncelik sırası not, and, or şeklindedir.
 # python'da her işlemin bir True veya False değeri olduğu unutulmamalıdır. 1 değeri True, 0 değeri False'dir.
-# if'in türkçe karşılığı eger manasındadır.
+# if'in türkçe karşılığı "eğer" manasındadır.
 
 #              (key) (koşul) (A colon) 
 #                if condition:
