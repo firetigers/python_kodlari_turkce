@@ -636,7 +636,7 @@
 #     print("We are same!")
 
 
-## if-else Statements(review)-if'de hatırlanacağı gibi True değer varsa body çalıştırılır, yoksa hiç birşey yapmazdı. 
+## if-else Statements (review)-if'de hatırlanacağı gibi True değer varsa body çalıştırılır, yoksa hiç birşey yapmazdı. 
 # Ancak burada "else" kullanılırsa, False olduğunda bunu çalıştır demektir.
 # Buysa bu, değilse bunu yapsın (if-else)
 # else'nin türkçe karşılığı yoksa manasındadır.
