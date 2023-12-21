@@ -703,7 +703,7 @@
 ## if-elif-else Statements (full block)
 # if-else bloğu arasına elif ile istenildiği kadar koşul eklenebilir.
 # else-if kelimelrinin ilk hecelerinden oluşturulmuştur.
-# eğer(if) şu doğru ise (True) bunu, değilse şu koşulu(elif)..., yoksa(else) bunu yazdır. 
+# eğer (if) şu doğru ise (True) bunu, değilse şu koşulu(elif)..., yoksa(else) bunu yazdır. 
 
 # audience = "teen"
 # if audience == "kid":
