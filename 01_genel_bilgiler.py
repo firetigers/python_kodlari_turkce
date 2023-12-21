@@ -575,7 +575,7 @@
 
 # >>> Control Flow Statements - Kontrol Akışı İfadeleri <<<
 
-## Conditionals - Şartlar veya Koşullar #
+## Conditionals - Şartlar veya Koşullar ##
 # iki veya daha fazla durum belirtilen yerlerde, şartları sağlıyorsa çalışsın, sağlamıyorsa hiç birşey yapmasın.
 
 
