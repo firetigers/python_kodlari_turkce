@@ -778,7 +778,7 @@
 # >>> Loops <<<
 ## while loop
 # Condition yani bir koşul içerir, bu koşul True olduğu sürece sonsuza kadar yazdırır.
-
+# False haline getirmezsek sonsuz döngüye girer, buda işlemcimizi gereksiz yere yorar.
 
 
 
