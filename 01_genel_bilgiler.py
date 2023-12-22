@@ -779,7 +779,7 @@
 ## while loop
 # Condition yani bir koşul içerir, bu koşul True olduğu sürece sonsuza kadar yazdırır.
 # False haline getirmezsek sonsuz döngüye girer, buda işlemcimizi gereksiz yere yorar.
-
+# Bu sebebten dolayı while döngülerine genelde sayaç gibi bir counter eklenir ve her çalıştığında bir artırır
 
 
 
